@@ -11,4 +11,5 @@ Background image changes depending on the climate!
 Switches between measuring units in a *fashionable* animated way!  
 
 **Screenshot:**  
+
 ![Screenshot of the Local Weather app](http://i.imgur.com/WJjPZQ6.jpg)
